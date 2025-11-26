@@ -28,9 +28,8 @@ export async function POST(req: NextRequest) {
       try {
         // eslint-disable-next-line @typescript-eslint/no-var-requires
         // eslint-disable-next-line @typescript-eslint/no-require-imports
-        const pdfParseModule = require('pdf-parse/lib/pdf-parse.js');
-        const pdfParseFn = pdfParseModule.default || pdfParseModule;
-        const pdfData = await pdfParseFn(buffer);
+        const pdfParse = require('pdf-parse');
+        const pdfData = await pdfParse(buffer);
 
         if (pdfData?.text?.trim()) {
           const courses = await parseCoursesFromText(anthropic, pdfData.text);
