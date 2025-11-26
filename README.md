@@ -1,4 +1,4 @@
-# Bellevue to UW Transfer Tool
+# UW Transfer Tool
 
 AI-powered transfer credit evaluation for students transferring to University of Washington.
 
