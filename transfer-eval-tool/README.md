@@ -1,6 +1,6 @@
 # Bellevue to UW Transfer Tool
 
-AI-powered transfer credit evaluation for Bellevue College students transferring to University of Washington.
+AI-powered transfer credit evaluation for students transferring to University of Washington.
 
 ## Quick Start
 
@@ -23,7 +23,7 @@ AI-powered transfer credit evaluation for Bellevue College students transferring
 ## How to Use
 
 1. Enter your name and intended major
-2. Upload your Bellevue College transcript (PDF or image) OR paste text
+2. Upload your College transcript (PDF or image) OR paste text
 3. Click "Evaluate Transfer Credits"
 4. View your detailed transfer report with 157 real BC→UW course mappings
 5. Download PDF or generate advisor request email
