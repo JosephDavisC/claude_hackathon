@@ -232,12 +232,6 @@ As transfer students ourselves, we experienced firsthand the frustration of navi
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-## Acknowledgments
-
-- **Anthropic** for the Claude API and hackathon opportunity
 - **University of Washington** for public equivalency guides
 
 ---
