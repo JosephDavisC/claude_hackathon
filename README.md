@@ -1,9 +1,13 @@
 # 🎓 AI Transfer Evaluation Tool
 
 <div align="center">
-  <img src="logo/UW_Logo.jpeg" alt="University of Washington Logo" width="200"/>
+  <img src="media/UW_Logo.jpeg" alt="University of Washington Logo" width="200"/>
 
   ### **Winner - Anthropic Claude Hackathon**
+
+  <img src="media/Team_Photo.jpeg" alt="Team photo at Anthropic Claude Hackathon" width="600"/>
+
+  *First place winners at the Anthropic Claude Hackathon*
 
   An intelligent web application that helps Washington community college students instantly understand how their credits transfer to the University of Washington.
 
@@ -16,24 +20,24 @@
 
 ---
 
-## 📖 Overview
+## Overview
 
 Transfer students often spend hours manually comparing course catalogs, navigating multiple websites, and waiting for advisor responses to understand which of their credits will transfer. The **AI Transfer Evaluation Tool** solves this problem by providing instant, accurate transfer credit predictions in seconds.
 
 Built by transfer students, for transfer students.
 
-### ✨ Key Features
+### Key Features
 
-- **🤖 AI-Powered Transcript Parsing** - Upload PDFs, images, or paste text. Claude Vision extracts course data automatically
-- **📊 Real Equivalency Data** - 157+ verified Bellevue College → UW course mappings from official equivalency guides
-- **🎯 Smart Matching** - Direct matches, semantic analysis, and clear flagging for courses needing advisor review
-- **📄 Professional Reports** - Download clean, formatted PDF reports for advising appointments
-- **✉️ Advisor Email Generator** - AI-crafted emails for courses requiring manual review
-- **⚡ Instant Results** - Get comprehensive evaluations in seconds, not days
+- **AI-Powered Transcript Parsing** - Upload PDFs, images, or paste text. Claude Vision extracts course data automatically
+- **Real Equivalency Data** - 157+ verified Bellevue College → UW course mappings from official equivalency guides
+- **Smart Matching** - Direct matches, semantic analysis, and clear flagging for courses needing advisor review
+- **Professional Reports** - Download clean, formatted PDF reports for advising appointments
+- **Advisor Email Generator** - AI-crafted emails for courses requiring manual review
+- **Instant Results** - Get comprehensive evaluations in seconds, not days
 
 ---
 
-## 🎬 Demo
+## Demo
 
 <div align="center">
   <a href="https://www.youtube.com/watch?v=F8It4V7N1hg">
@@ -47,7 +51,7 @@ Built by transfer students, for transfer students.
 
 ---
 
-## 👥 Team
+## Team
 
 - **Joseph Davis Chamdani** - [@JosephDavisC](https://github.com/JosephDavisC)
 - **Juwita Jessica Pangestu** - [@JuwitaJessicaP](https://github.com/JuwitaJessicaP)
@@ -60,7 +64,7 @@ Built by transfer students, for transfer students.
 
 ---
 
-## 🚀 Quick Start
+## Quick Start
 
 ### Prerequisites
 
@@ -99,16 +103,16 @@ Built by transfer students, for transfer students.
 
 ---
 
-## 💡 How to Use
+## How to Use
 
 1. **Enter your information** - Name and intended major at UW
 2. **Upload your transcript** - Drag & drop a PDF/image, or paste plain text
 3. **Click "Evaluate Transfer Credits"** - Watch the AI process your courses in real-time
 4. **Review your results** - See detailed transfer report with color-coded matches:
-   - 🟢 **Green** - Direct equivalency match
-   - 🔵 **Blue** - Semantic match (similar course content)
-   - 🟡 **Yellow** - Elective credit (counts toward degree, no direct equivalent)
-   - 🔴 **Red** - Requires advisor review
+   - **Green** - Direct equivalency match
+   - **Blue** - Semantic match (similar course content)
+   - **Yellow** - Elective credit (counts toward degree, no direct equivalent)
+   - **Red** - Requires advisor review
 5. **Download PDF report** - Get a professional document for advising appointments
 6. **Generate advisor email** - AI-crafted email template for unmatched courses
 
@@ -124,7 +128,7 @@ HIST& 146 - United States History I - 5 credits - Grade: B
 
 ---
 
-## 🏗️ Technical Architecture
+## Technical Architecture
 
 ### Tech Stack
 
@@ -172,24 +176,24 @@ transfer-eval-tool/
 
 ---
 
-## 🎯 Problem & Solution
+## Problem & Solution
 
 ### The Problem
 
 Transfer students from Washington community colleges face:
-- ⏰ Hours spent manually comparing course catalogs
-- 🔄 Jumping between multiple websites and documents
-- 📧 Long wait times for advisor email responses
-- ❓ Uncertainty about which credits will count
-- 😰 Anxiety about losing credits or delaying graduation
+- Hours spent manually comparing course catalogs
+- Jumping between multiple websites and documents
+- Long wait times for advisor email responses
+- Uncertainty about which credits will count
+- Anxiety about losing credits or delaying graduation
 
 ### Our Solution
 
-- ⚡ **Instant predictions** in seconds instead of days
-- 🎯 **Accurate matching** using real UW equivalency data
-- 📊 **Clear categorization** of all course types
-- 📄 **Professional reports** ready for advising appointments
-- 🤝 **Reduced advisor workload** with pre-evaluated transcripts
+- **Instant predictions** in seconds instead of days
+- **Accurate matching** using real UW equivalency data
+- **Clear categorization** of all course types
+- **Professional reports** ready for advising appointments
+- **Reduced advisor workload** with pre-evaluated transcripts
 
 ### Impact
 
@@ -199,7 +203,7 @@ Transfer students from Washington community colleges face:
 
 ---
 
-## 🏆 Hackathon Journey
+## Hackathon Journey
 
 ### Inspiration
 
@@ -214,11 +218,11 @@ As transfer students ourselves, we experienced firsthand the frustration of navi
 
 ### Accomplishments
 
-- ✅ Created a functional tool that reduces research time from hours to seconds
-- ✅ Implemented real equivalency data from official UW sources
-- ✅ Built comprehensive features: parsing, matching, reports, and email generation
-- ✅ Designed intuitive UX that requires no technical knowledge
-- ✅ **Won the Anthropic Claude Hackathon!**
+- Created a functional tool that reduces research time from hours to seconds
+- Implemented real equivalency data from official UW sources
+- Built comprehensive features: parsing, matching, reports, and email generation
+- Designed intuitive UX that requires no technical knowledge
+- **Won the Anthropic Claude Hackathon!**
 
 ### What We Learned
 
@@ -229,7 +233,7 @@ As transfer students ourselves, we experienced firsthand the frustration of navi
 
 ---
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
@@ -242,4 +246,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-**⭐ If this project helped you, please give it a star!**
+**If this project helped you, please give it a star!**
