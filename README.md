@@ -75,7 +75,7 @@ Built by transfer students, for transfer students.
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/JosephDavisC/claude_hackathon.git
+   git clone https://github.com/JosephDavisC/AI-Transfer-Evaluation-Tool
    cd claude_hackathon
    ```
 
