@@ -16,6 +16,7 @@ yarn-error.log*
 .env.*.local
 
 # Misc
+.claude/
 .vercel/
 dist/
 *.log
