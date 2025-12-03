@@ -47,7 +47,7 @@ Built by transfer students, for transfer students.
   **▶️ [Click to watch the full demo on YouTube](https://www.youtube.com/watch?v=F8It4V7N1hg)**
 </div>
 
-**Try it yourself:** Follow the [Quick Start](#-quick-start) guide below
+**🚀 [Try the live demo](https://transfer.joechamdani.cloud/)** | **📖 Follow the [Quick Start](#-quick-start) guide below**
 
 ---
 
