@@ -11,7 +11,8 @@
 
   An intelligent web application that helps Washington community college students instantly understand how their credits transfer to the University of Washington.
 
-  [![Demo Video](https://img.shields.io/badge/YouTube-Demo-red?logo=youtube)](https://www.youtube.com/watch?v=F8It4V7N1hg)
+  [![Live Demo](https://img.shields.io/badge/Live_Demo-Launch-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://transfer.joechamdani.cloud/)
+  [![YouTube Demo](https://img.shields.io/badge/YouTube-Demo-red?logo=youtube)](https://www.youtube.com/watch?v=F8It4V7N1hg)
   [![Devpost](https://img.shields.io/badge/Devpost-Project-blue?logo=devpost)](https://devpost.com/software/ai-transfer-evaluation-tool)
   [![Next.js](https://img.shields.io/badge/Next.js-14-black?logo=next.js)](https://nextjs.org/)
   [![TypeScript](https://img.shields.io/badge/TypeScript-5-blue?logo=typescript)](https://www.typescriptlang.org/)
