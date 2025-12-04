@@ -37,17 +37,42 @@ Built by transfer students, for transfer students.
 
 ---
 
-## Demo
+## Live Demo
 
 <div align="center">
-  <a href="https://www.youtube.com/watch?v=F8It4V7N1hg">
-    <img src="https://img.youtube.com/vi/F8It4V7N1hg/maxresdefault.jpg" alt="Watch the demo" width="600"/>
-  </a>
 
-  **▶️ [Click to watch the full demo on YouTube](https://www.youtube.com/watch?v=F8It4V7N1hg)**
+### **Try it now at [transfer.joechamdani.cloud](https://transfer.joechamdani.cloud/)**
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+**Live Application**
+
+[![Launch App](https://img.shields.io/badge/Launch_Application-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://transfer.joechamdani.cloud/)
+
+Experience the tool in action with your own transcript
+
+</td>
+<td align="center" width="50%">
+
+**Video Demo**
+
+[![Watch Demo](https://img.shields.io/badge/Watch_on_YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=F8It4V7N1hg)
+
+See a walkthrough of all features
+
+</td>
+</tr>
+</table>
+
+<a href="https://www.youtube.com/watch?v=F8It4V7N1hg">
+  <img src="https://img.youtube.com/vi/F8It4V7N1hg/maxresdefault.jpg" alt="Watch the demo" width="600"/>
+</a>
+
 </div>
 
-**🚀 [Try the live demo](https://transfer.joechamdani.cloud/)** | **📖 Follow the [Quick Start](#-quick-start) guide below**
+Or follow the [Quick Start](#quick-start) guide to run it locally
 
 ---
 
