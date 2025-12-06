@@ -21,3 +21,6 @@ yarn-error.log*
 dist/
 *.log
 *.lock
+
+# macOS
+.DS_Store
